@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-openssl-smime",
+  "version": "0.0.1",
+  "description": "Used for signing Apple's .mobileconfig payloads.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dids/nodejs-openssl-smime.git"
+  },
+  "keywords": [
+    "openssl",
+    "ssl",
+    "smime",
+    "mobileconfig",
+    "apple",
+    "ios",
+    "adhoc",
+    "ipa",
+    "der"
+  ],
+  "author": "Pauli 'Dids' Jokela",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dids/nodejs-openssl-smime/issues"
+  },
+  "homepage": "https://github.com/Dids/nodejs-openssl-smime#readme",
+  "dependencies": {
+    "promise": "^7.0.3"
+  }
+}
