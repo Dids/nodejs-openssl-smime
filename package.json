@@ -18,7 +18,7 @@
     "ipa",
     "der"
   ],
-  "author": "Pauli 'Dids' Jokela",
+  "author": "Pauli Jokela <pauli.jokela@didstopia.com> (http://paulijokela.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Dids/nodejs-openssl-smime/issues"
